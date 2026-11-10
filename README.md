@@ -32,6 +32,20 @@ Dự án dự kiến xây dựng các tài liệu:
 - Flowchart, BPMN.
 - WBS, BRD, SRS.
 
+
+### Wireframe & Prototype (Figma)
+
+Dự án đã hoàn thành 7 màn hình Wireframe cơ bản và thiết lập Prototype mô phỏng các luồng thao tác chính.
+
+- **Khách hàng:** Xem danh sách sân, chọn lịch đặt và xem lịch đã đặt.
+- **Nhân viên:** Quản lý lịch đặt, xem chi tiết và tạo lịch đặt trực tiếp.
+- **Chủ sân:** Quản lý danh sách sân và bảng giá.
+
+**Xem thiết kế Figma:** [TADA PITCH – Wireframe & Prototype](https://www.figma.com/design/G2HELe2w1XuSshV4EVBycZ/TADA-PITCH---Basic-Wireframes?node-id=0-1\&t=kNCNVchId1FVyjQu-1)
+
+*Lưu ý: Prototype chỉ mô phỏng điều hướng, chưa có chức năng lưu dữ liệu thực tế.*
+
+
 ## 5. Công cụ sử dụng
 
 - **Microsoft Office:** Soạn thảo tài liệu.
