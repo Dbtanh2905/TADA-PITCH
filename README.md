@@ -45,6 +45,15 @@ Dự án đã hoàn thành 7 màn hình Wireframe cơ bản và thiết lập Pr
 
 *Lưu ý: Prototype chỉ mô phỏng điều hướng, chưa có chức năng lưu dữ liệu thực tế.*
 
+### Use Case Diagram
+
+Sơ đồ Use Case mô tả các chức năng chính của hệ thống TADA PITCH và sự tương tác giữa ba nhóm người dùng: Khách hàng, Nhân viên sân và Chủ sân.
+
+**Xem sơ đồ Use Case:**
+
+![TADA PITCH Use Case Diagram](TADA-PITCH-Use-Case-Diagram.drawio.png)
+
+**File chỉnh sửa:** [TADA-PITCH-Use-Case-Diagram.drawio](TADA-PITCH-Use-Case-Diagram.drawio)
 
 ## 5. Công cụ sử dụng
 
